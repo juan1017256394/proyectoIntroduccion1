@@ -3,8 +3,15 @@ footer{
     background-color: darkgray;
 }
 
-.familiaTexto{
-    font-family: "papyrus";
-    font-size: 15px;
-    color: #0603BA;
-    text-align: justify;
+.familiatexto{
+    color: ghostwhite;
+    text-align: center;
+    font-style: normal;
+}
+
+.imagenfondo{
+    background-image: url(https://www.markas.my/image/markas/image/cache/data/slideshow/2020/iTkqwB431579111845-1900x635.jpg);
+    height: 640px;
+    background-repeat: no-repeat;
+}
+
