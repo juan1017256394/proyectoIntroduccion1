@@ -15,3 +15,44 @@ footer{
     background-repeat: no-repeat;
 }
 
+.Colorverdeh1p1{
+    color: green;
+}
+
+.estiloparrafosp1{
+    color: green;
+    text-align: justify;
+    font-style: italic;
+    font-family: cursive;
+}
+
+.colorfondopag1{
+    background-color: black;
+}
+
+.imagenfondopag1{
+    background-image: url(https://www.jtoystore.com/image/jtoysto/image/cache/data/slideshow/CUTdMPOq1565857113-1900x635.jpg);
+    height: 640px;
+    background-repeat: no-repeat;
+}
+
+.Colorazulh1p2{
+    color: blue;
+}
+
+.estiloparrafosp2{
+    color: blue;
+    text-align: left;
+    font-style: italic;
+    font-family: fantasy;
+}
+
+.colorfondopag2{
+    background-color:rgb(194, 222, 224);
+}
+
+.imagenfondopag2{
+    background-image: url(https://www.markas.my/image/markas/image/cache/data/slideshow/2020/UhNWtFem1579111863-1900x635.jpg);
+    height: 640px;
+    background-repeat: no-repeat;
+}
